@@ -1,0 +1,13 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "kurrxd", 
+	"zeksKey": "NinoWangy",
+	"autoRead": false,
+	"self": false, 
+	"maxLimit": 30,
+	"ownerList": ["62895331097952@s.whatsapp.net", "62895331097952@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.me",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/archive/1/16/20081206012354!The_Pirate_Bay_logo.svg",
+	"pack": "",
+	"author": "Bot"
+}
